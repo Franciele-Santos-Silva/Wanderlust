@@ -55,6 +55,13 @@ export default function Home() {
           </div>
         </div>
 
+         <div className="w-full flex justify-center mt-12">
+          <Link href="#comecar" className="font-bold px-8 py-4 bg-fuchsia-500 text-white rounded-full hover:bg-fuchsia-600 transition-colors text-lg">
+          Começar Agora
+           </Link>
+         </div>
+
+
       </section>
     </main>
   );
