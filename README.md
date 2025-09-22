@@ -1,6 +1,6 @@
 # Wanderlust
 
-Wanderlust é uma **Hero Section de viagens**, criada com **Next.js** para praticar fundamentos do framework, organização de componentes e estilo visual atrativo com **Tailwind CSS**.  
+Wanderlust é uma **hero section de viagens**, criada com **Next.js** para praticar fundamentos do framework, organização de componentes e estilo visual atrativo com **Tailwind CSS**.  
 
 ---
 
